@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://craft2.net">
-    <img src="https://craft2.net/public/assets/img/logo-blocky.png" />
+    <img src="https://craft2.net/public/assets/img/craft2developments.png" />
   </a>
   <a href="https://discord.gg/F2Qj4jYJNd">
     <img height="100px" src="https://craft2.net/public/assets/img/joindiscord.png" />
