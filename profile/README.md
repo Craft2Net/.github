@@ -1,4 +1,7 @@
-![](https://craft2.net/public/assets/img/logo-blocky.png "Craft2")
+<p align="center">
+  <img src="https://craft2.net/public/assets/img/logo-blocky.png" />
+</p>
+
 # Public Open Source Resources
 [![Build Status](https://ci.lucko.me/job/LuckPerms/badge/icon)](https://ci.lucko.me/job/LuckPerms/)
 [![javadoc](https://javadoc.io/badge2/net.luckperms/api/javadoc.svg)](https://javadoc.io/doc/net.luckperms/api)
