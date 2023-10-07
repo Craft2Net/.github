@@ -1,9 +1,10 @@
 <p align="center">
-  <img src="https://craft2.net/public/assets/img/logo-blocky.png" />
+  <a href="https://craft2.net">
+    <img src="https://craft2.net/public/assets/img/logo-blocky.png" />
+  </a>
   <a href="https://discord.gg/F2Qj4jYJNd">
     <img height="100px" src="https://craft2.net/public/assets/img/joindiscord.png" />
   </a>
-  
 </p>
 
 
