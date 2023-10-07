@@ -11,10 +11,12 @@
 
 # Public Open Source Resources
 
-## Craft HUD
+## Proxy Plugins
 
-## Craft Friends
+### Craft HUD
 
-## Craft Guilds
+### Craft Friends
 
-## Craft Party
+### Craft Guilds
+
+### Craft Party
