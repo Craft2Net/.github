@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://craft2.net/public/assets/img/logo-blocky.png" />
-  <img src="https://craft2.net/public/assets/img/joindiscord.png" />
+  <img height="50px" src="https://craft2.net/public/assets/img/joindiscord.png" />
 </p>
 
 
