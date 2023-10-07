@@ -1,10 +1,9 @@
-## Craft2 Network Open Resources
+# Craft2 Network Open Resources
 
-# Craft HUD
+## Craft HUD
 
-# Craft Friends
+## Craft Friends
 
-# Craft Guilds
+## Craft Guilds
 
-# Craft Party
-
+## Craft Party
