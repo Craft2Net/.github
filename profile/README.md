@@ -4,11 +4,15 @@
   </a>
 </p>
 
-
-
 # Public Open Source Resources
 
-## Proxy Plugins
+## Server JARs
+
+### Craft2 Minigame Server
+
+### Craft2 Authentication
+
+## All Support Plugins
 
 ### Craft HUD
 
